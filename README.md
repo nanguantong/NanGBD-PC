@@ -26,7 +26,7 @@ NanGBD (包含 [NanGBD-Android](https://github.com/nanguantong/NanGBD-Android)) 
 - [X]  设备控制，包括云台控制（PTZ、焦距、光圈、3D定位、灯光、雨刷、巡航、预置位、看守位）、录制控制、设备配置
 - [X]  设备视频参数配置，如帧率、码率、分辨率
 - [X]  多种协议播放，如RTSP、HTTP-FLV、HTTP-HLS、WebRTC等
-- [X]  支持 H264、H265 软硬解码
+- [X]  支持 H264、H265 软硬解码、SVAC 软解码
 - [X]  设备实时取流（UDP/TCP）
 - [X]  设备录制、录制控制与设置、取历史回放视频流（UDP/TCP）
 - [X]  录像时间轴显示，全部播放、停止、抓图、速度控制，同步、异步回放
