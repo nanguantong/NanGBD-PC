@@ -1,7 +1,7 @@
 # NanGBD-PC
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/nanguantong/NanGBD-PC/blob/main/LICENSE)
-[![JAVA](https://img.shields.io/badge/language-java%20|%20cpp-red.svg)](https://en.cppreference.com/)
+[![CPP](https://img.shields.io/badge/language-cpp-red.svg)](https://en.cppreference.com/)
 [![platform](https://img.shields.io/badge/platform-pc%20-purple.svg)](https://github.com/nanguantong/NanGBD-PC)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://github.com/nanguantong/NanGBD-PC/pulls)
 
