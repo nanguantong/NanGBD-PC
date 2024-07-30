@@ -58,8 +58,9 @@ NanGBD (包含 [NanGBD-Android](https://github.com/nanguantong/NanGBD-Android)) 
 ![8](doc/snapshot/record_menu.png "record_menu.png")
 ![9](doc/snapshot/record_download.png "record_download.png")
 ![10](doc/snapshot/record_label.png "record_label.png")
-![11](doc/snapshot/lock.png "lock.png")
-![12](doc/snapshot/config.png "config.png")
+![11](doc/snapshot/record_label_edit.png "record_label_edit.png")
+![12](doc/snapshot/lock.png "lock.png")
+![13](doc/snapshot/config.png "config.png")
 
 # 联系我们
 [上海南宙科技有限公司](https://www.nanuns.com)  
