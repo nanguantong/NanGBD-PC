@@ -30,6 +30,7 @@ NanGBD (包含 [NanGBD-Android](https://github.com/nanguantong/NanGBD-Android)) 
 - [X]  设备实时取流（UDP/TCP）
 - [X]  设备录制、录制控制与设置、取历史回放视频流（UDP/TCP）
 - [X]  录像时间轴显示，全部播放、停止、抓图、速度控制，同步、异步回放
+- [X]  录像分段打自定义标签进行记录
 - [X]  设备公网/内网语音对讲
 - [X]  动态抓图并配置保存位置
 - [X]  电子地图标注
@@ -51,11 +52,14 @@ NanGBD (包含 [NanGBD-Android](https://github.com/nanguantong/NanGBD-Android)) 
 ![2](doc/snapshot/login_failed.png "login_failed.png")
 ![3](doc/snapshot/splash.png "splash.png")
 ![4](doc/snapshot/preview.png "preview.png")
-![5](doc/snapshot/preview2.png "preview2.png")
+![5](doc/snapshot/preview_ptz.png "preview_ptz.png")
 ![6](doc/snapshot/record.png "record.png")
-![7](doc/snapshot/record2.png "record2.png")
-![8](doc/snapshot/lock.png "lock.png")
-![9](doc/snapshot/config.png "config.png")
+![7](doc/snapshot/record_play.png "record_play.png")
+![8](doc/snapshot/record_menu.png "record_menu.png")
+![9](doc/snapshot/record_download.png "record_download.png")
+![10](doc/snapshot/record_label.png "record_label.png")
+![11](doc/snapshot/lock.png "lock.png")
+![12](doc/snapshot/config.png "config.png")
 
 # 联系我们
 [上海南宙科技有限公司](https://www.nanuns.com)  
