@@ -28,9 +28,12 @@ NanGBD (包含 [NanGBD-Android](https://github.com/nanguantong/NanGBD-Android)) 
 - [X]  多种协议播放，如RTSP、HTTP-FLV、HTTP-HLS、WebRTC等
 - [X]  支持 H264、H265 软硬解码、SVAC 软解码
 - [X]  设备实时取流（UDP/TCP）
+- [X]  实时视频3D定位（拉框放大和缩小）
 - [X]  设备录制、录制控制与设置、取历史回放视频流（UDP/TCP）
 - [X]  录像时间轴显示，全部播放、停止、抓图、速度控制，同步、异步回放
 - [X]  录像分段打自定义标签进行记录
+- [X]  录像视频电子放大、鼠标拖动放大区域
+- [X]  录像时间轴分段显示和控制，倍速、随机拖拽进度条回放
 - [X]  设备公网/内网语音对讲
 - [X]  动态抓图并配置保存位置
 - [X]  电子地图标注
@@ -56,14 +59,16 @@ NanGBD (包含 [NanGBD-Android](https://github.com/nanguantong/NanGBD-Android)) 
 ![6](doc/snapshot/preview_play_menu.png "preview_play_menu.png")
 ![7](doc/snapshot/preview_record_ok.png "preview_record_ok.png")
 ![8](doc/snapshot/preview_snapshot_ok.png "preview_snapshot_ok.png")
-![9](doc/snapshot/record.png "record.png")
-![10](doc/snapshot/record_play.png "record_play.png")
-![11](doc/snapshot/record_menu.png "record_menu.png")
-![12](doc/snapshot/record_download.png "record_download.png")
-![13](doc/snapshot/record_label.png "record_label.png")
-![14](doc/snapshot/record_label_edit.png "record_label_edit.png")
-![15](doc/snapshot/lock.png "lock.png")
-![16](doc/snapshot/config.png "config.png")
+![9](doc/snapshot/preview_dragzoom.png "preview_dragzoom.png")
+![10](doc/snapshot/record.png "record.png")
+![11](doc/snapshot/record_play.png "record_play.png")
+![12](doc/snapshot/record_menu.png "record_menu.png")
+![13](doc/snapshot/record_download.png "record_download.png")
+![14](doc/snapshot/record_label.png "record_label.png")
+![15](doc/snapshot/record_label_edit.png "record_label_edit.png")
+![16](doc/snapshot/record_dragzoom.png "record_dragzoom.png")
+![17](doc/snapshot/lock.png "lock.png")
+![18](doc/snapshot/config.png "config.png")
 
 # 联系我们
 [上海南宙科技有限公司](https://www.nanuns.com)  
